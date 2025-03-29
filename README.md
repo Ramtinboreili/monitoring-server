@@ -1,5 +1,3 @@
-
-```markdown
 # 🖥️ Server Monitoring Script
 
 A lightweight and extensible Bash script to analyze **basic server performance statistics**. Ideal for debugging, monitoring, or tracking system health over time.
@@ -119,15 +117,4 @@ GitHub: [@Ramtinboreili](https://github.com/Ramtinboreili)
 
 ---
 
-## 📄 License
-
-MIT License – feel free to use, modify, and share!
-
----
-
 🔥 If you'd like to improve this further (e.g. generate HTML/JSON reports, email daily summaries, or build a dashboard), just open an issue or fork the repo!
-```
-
----
-
-بگو اگه دوست داری یه تصویر از خروجی اسکریپت توی ترمینال هم طراحی کنیم برای README، که پروژه‌ت توی GitHub حرفه‌ای‌تر و کامل‌تر دیده بشه 😎
