@@ -1,4 +1,5 @@
-# 🖥️ Server Monitoring Script
+# 🖥️ [Server Monitoring Script](https://roadmap.sh/projects/server-stats)
+
 
 A lightweight and extensible Bash script to analyze **basic server performance statistics**. Ideal for debugging, monitoring, or tracking system health over time.
 
