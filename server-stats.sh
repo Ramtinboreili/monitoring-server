@@ -1,5 +1,14 @@
 #!/bin/bash
 
+#####################################
+# script name : server stats
+# description : simpel server ditailed bash script 
+# author      : Ramtin Boreili
+# Email       : ramtin.bor7hp@gmail.com
+# version     : V1.4
+#####################################
+
+
 # ====== Colors ======
 GREEN='\033[0;32m'
 YELLOW='\033[1;33m'
