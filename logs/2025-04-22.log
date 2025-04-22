@@ -37,3 +37,47 @@
 N/A
 
 [1;34m===== Git Commit =====[0m
+[main 198e337] Daily log update for 2025-04-22
+ 1 file changed, 39 insertions(+)
+ create mode 100644 logs/2025-04-22.log
+To github.com:Ramtinboreili/monitoring-server.git
+   5bfce24..198e337  main -> main
+
+[1;34m===== Server Performance Stats - 2025-04-22 =====[0m
+
+[1;34m===== CPU Usage =====[0m
+[1;33mCPU Usage:[0m 6.2%
+
+[1;34m===== Memory Usage =====[0m
+[1;33mUsed:[0m 426MB | [1;33mFree:[0m 377MB | [1;33mUsage:[0m 53.05%
+
+[1;34m===== Disk Usage =====[0m
+[1;33mUsed:[0m 36G | [1;33mFree:[0m 93G | [1;33mUsage:[0m 28%
+
+[1;34m===== Top 5 Processes by CPU =====[0m
+[0;32mPID	COMMAND	%CPU[0m
+[0;32m1310007	outline-ss-serv	1.1[0m
+[0;32m1	systemd	0.0[0m
+[0;32m2	kthreadd	0.0[0m
+[0;32m3	rcu_gp	0.0[0m
+[0;32m4	rcu_par_gp	0.0[0m
+
+[1;34m===== Top 5 Processes by Memory =====[0m
+[0;32mPID	COMMAND	%MEM[0m
+[0;32m74688	systemd-journal	2.6[0m
+[0;32m1309581	dockerd	2.1[0m
+[0;32m1310000	prometheus	1.9[0m
+[0;32m1309967	node	1.7[0m
+[0;32m126448	containerd	0.7[0m
+
+[1;34m===== System Info =====[0m
+[1;33mOS:[0m Ubuntu 22.04.5 LTS
+[1;33mUptime:[0m up 3 weeks, 2 days, 3 hours, 7 minutes
+[1;33mLoad Avg:[0m  0.00, 0.00, 0.00
+[1;33mLogged In Users:[0m 1
+
+[1;34m===== Failed Login Attempts =====[0m
+[0;31mCount:[0m 0
+N/A
+
+[1;34m===== Git Commit =====[0m
