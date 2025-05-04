@@ -1,0 +1,39 @@
+
+[1;34m===== Server Performance Stats - 2025-05-04 =====[0m
+
+[1;34m===== CPU Usage =====[0m
+[1;33mCPU Usage:[0m 17.6%
+
+[1;34m===== Memory Usage =====[0m
+[1;33mUsed:[0m 295MB | [1;33mFree:[0m 125MB | [1;33mUsage:[0m 70.24%
+
+[1;34m===== Disk Usage =====[0m
+[1;33mUsed:[0m 18G | [1;33mFree:[0m 111G | [1;33mUsage:[0m 14%
+
+[1;34m===== Top 5 Processes by CPU =====[0m
+[0;32mPID	COMMAND	%CPU[0m
+[0;32m67362	outline-ss-serv	2.3[0m
+[0;32m1	systemd	0.6[0m
+[0;32m66838	dockerd	0.2[0m
+[0;32m2	kthreadd	0.0[0m
+[0;32m3	rcu_gp	0.0[0m
+
+[1;34m===== Top 5 Processes by Memory =====[0m
+[0;32mPID	COMMAND	%MEM[0m
+[0;32m66838	dockerd	1.9[0m
+[0;32m67345	node	1.6[0m
+[0;32m67356	prometheus	1.5[0m
+[0;32m66668	containerd	1.1[0m
+[0;32m41808	snapd	0.7[0m
+
+[1;34m===== System Info =====[0m
+[1;33mOS:[0m Ubuntu 22.04.5 LTS
+[1;33mUptime:[0m up 1 hour, 15 minutes
+[1;33mLoad Avg:[0m  0.15, 0.07, 0.04
+[1;33mLogged In Users:[0m 1
+
+[1;34m===== Failed Login Attempts =====[0m
+[0;31mCount:[0m 0
+N/A
+
+[1;34m===== Git Commit =====[0m
