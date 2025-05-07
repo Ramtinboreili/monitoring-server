@@ -1,7 +1,8 @@
-# 🖥️ [Server Monitoring Script](https://roadmap.sh/projects/server-stats)
+# 🖥️ [Server Monitoring](https://roadmap.sh/projects/server-stats)
 
 
 A lightweight and extensible Bash script to analyze **basic server performance statistics**. Ideal for debugging, monitoring, or tracking system health over time.
+Second version of this project sets up a simple monitoring stack using **Prometheus**, **Node Exporter**, and **Grafana** using Docker Compose — with **custom ports** to avoid conflict with existing services like Outline.
 
 ---
 
@@ -102,6 +103,25 @@ Used: 1048MB | Free: 512MB | Usage: 67.18%
 ```
 
 ---
+
+# 📊 Simple Monitoring Stack with Docker Compose
+
+
+## 🧰 Components
+
+- **Prometheus** (metrics collection) - exposed on `19090`
+- **Node Exporter** (host metrics)
+- **Grafana** (visualization) - exposed on `13000`
+
+---
+
+## 🚀 How to Run
+
+```bash
+git clone https://github.com/your-username/monitoring-project.git
+cd monitoring-project
+docker compose up -d
+
 
 ## 🔐 Notes
 
