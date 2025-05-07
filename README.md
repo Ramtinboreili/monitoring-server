@@ -121,7 +121,7 @@ Used: 1048MB | Free: 512MB | Usage: 67.18%
 git clone https://github.com/your-username/monitoring-project.git
 cd monitoring-project
 docker compose up -d
-
+```
 
 ## 🔐 Notes
 
