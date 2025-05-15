@@ -81,3 +81,49 @@ To https://github.com/Ramtinboreili/monitoring-server.git
 N/A
 
 [1;34m===== Git Commit =====[0m
+[main c169eba] Daily log update for 2025-05-15
+ 1 file changed, 44 insertions(+)
+ssh: Could not resolve hostname https: Name or service not known
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+[1;34m===== Server Performance Stats - 2025-05-15 =====[0m
+
+[1;34m===== CPU Usage =====[0m
+[1;33mCPU Usage:[0m 29.4%
+
+[1;34m===== Memory Usage =====[0m
+[1;33mUsed:[0m 592MB | [1;33mFree:[0m 182MB | [1;33mUsage:[0m 76.49%
+
+[1;34m===== Disk Usage =====[0m
+[1;33mUsed:[0m 44G | [1;33mFree:[0m 212G | [1;33mUsage:[0m 17%
+
+[1;34m===== Top 5 Processes by CPU =====[0m
+[0;32mPID	COMMAND	%CPU[0m
+[0;32m67362	outline-ss-serv	1.6[0m
+[0;32m244888	grafana	0.2[0m
+[0;32m716549	fwupd	0.1[0m
+[0;32m1	systemd	0.0[0m
+[0;32m2	kthreadd	0.0[0m
+
+[1;34m===== Top 5 Processes by Memory =====[0m
+[0;32mPID	COMMAND	%MEM[0m
+[0;32m244888	grafana	6.3[0m
+[0;32m244728	prometheus	2.3[0m
+[0;32m66838	dockerd	2.0[0m
+[0;32m716549	fwupd	1.9[0m
+[0;32m67345	node	1.8[0m
+
+[1;34m===== System Info =====[0m
+[1;33mOS:[0m Ubuntu 22.04.5 LTS
+[1;33mUptime:[0m up 1 week, 3 days, 19 hours, 7 minutes
+[1;33mLoad Avg:[0m  0.00, 0.02, 0.00
+[1;33mLogged In Users:[0m 1
+
+[1;34m===== Failed Login Attempts =====[0m
+[0;31mCount:[0m 0
+N/A
+
+[1;34m===== Git Commit =====[0m
