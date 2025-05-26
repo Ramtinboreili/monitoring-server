@@ -37,3 +37,95 @@
 N/A
 
 [1;34m===== Git Commit =====[0m
+
+[1;34m===== Server Performance Stats - 2025-05-26 =====[0m
+
+[1;34m===== CPU Usage =====[0m
+[1;33mCPU Usage:[0m 13%
+
+[1;34m===== Memory Usage =====[0m
+[1;33mUsed:[0m 1055MB | [1;33mFree:[0m 113MB | [1;33mUsage:[0m 90.33%
+
+[1;34m===== Disk Usage =====[0m
+[1;33mUsed:[0m 11G | [1;33mFree:[0m 50G | [1;33mUsage:[0m 18%
+
+[1;34m===== Top 5 Processes by CPU =====[0m
+[0;32mPID	COMMAND	%CPU[0m
+[0;32m2526	gnome-shell	4.2[0m
+[0;32m5145	htop	2.2[0m
+[0;32m2696	prlcc	0.9[0m
+[0;32m3216	gjs	0.8[0m
+[0;32m3693	gnome-terminal-	0.7[0m
+
+[1;34m===== Top 5 Processes by Memory =====[0m
+[0;32mPID	COMMAND	%MEM[0m
+[0;32m2526	gnome-shell	13.3[0m
+[0;32m2834	snap-store	7.5[0m
+[0;32m4990	gnome-calendar	5.3[0m
+[0;32m2691	evolution-alarm	5.0[0m
+[0;32m2633	evolution-sourc	4.1[0m
+
+[1;34m===== System Info =====[0m
+[1;33mOS:[0m Ubuntu 24.04.2 LTS
+[1;33mUptime:[0m up 10 minutes
+[1;33mLoad Avg:[0m  0.09, 0.20, 0.11
+[1;33mLogged In Users:[0m 2
+
+[1;34m===== Failed Login Attempts =====[0m
+[0;31mCount:[0m 0
+N/A
+
+[1;34m===== Git Commit =====[0m
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'parallels@ubuntu-linux-2404.(none)')
+Everything up-to-date
+
+[1;34m===== Server Performance Stats - 2025-05-26 =====[0m
+
+[1;34m===== CPU Usage =====[0m
+[1;33mCPU Usage:[0m 8.3%
+
+[1;34m===== Memory Usage =====[0m
+[1;33mUsed:[0m 1068MB | [1;33mFree:[0m 99MB | [1;33mUsage:[0m 91.52%
+
+[1;34m===== Disk Usage =====[0m
+[1;33mUsed:[0m 11G | [1;33mFree:[0m 50G | [1;33mUsage:[0m 18%
+
+[1;34m===== Top 5 Processes by CPU =====[0m
+[0;32mPID	COMMAND	%CPU[0m
+[0;32m2526	gnome-shell	4.2[0m
+[0;32m5145	htop	2.2[0m
+[0;32m2696	prlcc	0.8[0m
+[0;32m3216	gjs	0.8[0m
+[0;32m3693	gnome-terminal-	0.8[0m
+
+[1;34m===== Top 5 Processes by Memory =====[0m
+[0;32mPID	COMMAND	%MEM[0m
+[0;32m2526	gnome-shell	13.4[0m
+[0;32m2834	snap-store	7.5[0m
+[0;32m4990	gnome-calendar	5.3[0m
+[0;32m2691	evolution-alarm	5.0[0m
+[0;32m2633	evolution-sourc	4.1[0m
+
+[1;34m===== System Info =====[0m
+[1;33mOS:[0m Ubuntu 24.04.2 LTS
+[1;33mUptime:[0m up 13 minutes
+[1;33mLoad Avg:[0m  0.13, 0.20, 0.12
+[1;33mLogged In Users:[0m 2
+
+[1;34m===== Failed Login Attempts =====[0m
+[0;31mCount:[0m 0
+N/A
+
+[1;34m===== Git Commit =====[0m
